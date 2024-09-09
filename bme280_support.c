@@ -53,7 +53,7 @@
 /* Includes*/
 /*---------------------------------------------------------------------------*/
 #include "main.h"
-#include "stm32f4xx_hal.h"
+#include "stm32f0xx_hal.h"
 #include "i2c.h"
 #include "usart.h"
 #include "gpio.h"
